@@ -68,7 +68,3 @@
 [![](https://github-readme-stats.vercel.app/api?username=JuanFortez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanFortez)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JuanFortez&theme=material-palenight)](https://github.com/JuanFortez)
 </div>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/JuanFortez/JuanFortez/main/resources/img/github-contribution-grid-snake.svg"/>
-</p>
