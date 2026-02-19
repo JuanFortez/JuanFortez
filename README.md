@@ -1,15 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <p style="font-size: 32px; font-weight: bold;">
-    Hi There, I'm Juan Fortez
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  </p>
-
-  <p style="font-size: 20px;">
-    Welcome to my GitHub Profile 👨🏽‍💻
-  </p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi There, I'm Juan Fortez<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juanfortez/" target="_blank">
@@ -29,6 +18,8 @@
 🌱 &nbsp;I’m on track to learn Java and Python, and to improve my English.\
 📖 &nbsp;In my free time, I’m looking to improve my programming skills, and I also enjoy reading books and watching movies.\
 ✉️ &nbsp;You can shoot me an email at juanfortez112@gmail.com! I'll try to respond as soon as I can.
+
+<br>
 
 ## 🛠 Tech Stack:
 
