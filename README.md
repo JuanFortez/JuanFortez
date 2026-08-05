@@ -15,8 +15,8 @@
 
 💡 &nbsp;I like to learn about new technologies, as well as develop skills to improve my programming.\
 🎓 &nbsp;I'm currently studying Software Development at the Argentine Business University (UADE).\
-🌱 &nbsp;I’m on track to learn Python and SQL, and to improve my English.\
-📖 &nbsp;In my free time, I’m looking to improve my programming skills, and I also enjoy reading books and watching movies.\
+🌱 &nbsp;I’m on track to learn about Operating Systems and SQL, and to improve my English.\
+📖 &nbsp;In my free time, I’m looking to improve my programming skills, and I also enjoy reading books.\
 ✉️ &nbsp;You can shoot me an email at juanfortez112@gmail.com! I'll try to respond as soon as I can.
 
 <br>
