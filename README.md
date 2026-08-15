@@ -37,7 +37,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔧 Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -51,13 +52,10 @@
 
 ### 🧠 What I Want to Learn Next: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+## ✍️ Projects:
 
-[![](https://github-readme-stats.vercel.app/api?username=JuanFortez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanFortez)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanFortez&theme=material-palenight)](https://github.com/JuanFortez)
-</div>
+### Parking Control
+Parking management system developed in Python that allows you to manage available parking spots, register vehicle entries and exits, handle reservations, and check occupancy in real time. It features automatic fare calculation based on parking duration, differentiated user roles (admin and client), input data validation, and data persistence through JSON files.
+
